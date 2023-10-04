@@ -34,6 +34,8 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
+* [Qualified Rust compiler Ferrocene released as open source](https://ferrous-systems.com/blog/ferrocene-open-source/)
+  
 * [Zenoh 0.10.0,  a pure Rust Pub/Sub/Query protocol for cloud-to-thing continuum, was released and it is packed with new features.](https://zenoh.io/blog/2023-10-03-zenoh-dragonite/)
 
 * [Announcing Yew 0.21](https://yew.rs/blog/2023/09/23/release-0-21)
